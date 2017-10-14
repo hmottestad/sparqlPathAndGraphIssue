@@ -1,0 +1,5 @@
+SELECT DISTINCT ?x0
+
+WHERE {
+   <tag:stardog:api:obf:82076d588e7cecbac179617e26fecee89ad83e4645d87d68581e915ef56fd759> <tag:stardog:api:obf:5a57c770656f6e66c5c15ca682d5ad0b5cc73a413bdad0c41db3c2c563ba9f87>*/<tag:stardog:api:obf:cb14b922acd1d1f317c74b8c3bf23b36af2fa781d6343d5c8b1a2f53d110e212>/<tag:stardog:api:obf:09d7598710ba399262e4edbb5c23a1af541505a3d8037afbc607190eae974281>* ?x0 .
+}
