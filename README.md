@@ -1,6 +1,6 @@
 # How to run
 
-Load `export.nq` into a new stardog database. Set `query.all.graphs` to true (important).
+Run `createDatabase.sh` to load the data into a new database `obfuscated`.
 
 Run the query in `query2.sparql`, check that the results are the same as in `correctResults.csv`. 
 
